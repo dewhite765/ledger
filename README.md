@@ -1,4 +1,4 @@
 ledger
 ======
 
-create a financial ledger starting with a chart of accounts
+create a financial ledger starting with a chart of accounts (COA)
